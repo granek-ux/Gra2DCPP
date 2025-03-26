@@ -1,0 +1,3 @@
+C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

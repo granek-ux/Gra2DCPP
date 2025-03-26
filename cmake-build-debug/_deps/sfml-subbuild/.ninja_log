@@ -1,0 +1,37 @@
+# ninja log v6
+3	78	7646413030381158	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	84256b22ffef0c8b
+3	78	7646413030381158	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	84256b22ffef0c8b
+11481	11677	7646413144471669	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	14b296848948651c
+79	11465	7646413144251671	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	160f1a142024f1fa
+11481	11677	7646413144471669	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	14b296848948651c
+12128	12248	7646413152061701	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2c9f06adfa1bdddd
+79	11465	7646413144251671	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	160f1a142024f1fa
+11677	11775	7646413147331694	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d91fd725171ffcb3
+11677	11775	7646413147331694	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d91fd725171ffcb3
+11776	11884	7646413148391677	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e06ebeecb595f73
+11776	11884	7646413148391677	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e06ebeecb595f73
+11884	11993	7646413149491686	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b104360b2ac23a34
+11884	11993	7646413149491686	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b104360b2ac23a34
+11993	12128	7646413150831699	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6792a0c9125e8125
+12248	12379	7646413153341687	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	ec8a2995e686ff37
+11993	12128	7646413150831699	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6792a0c9125e8125
+12128	12248	7646413152061701	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2c9f06adfa1bdddd
+12248	12379	7646413153341687	CMakeFiles/sfml-populate-complete	ec8a2995e686ff37
+12248	12379	7646413153341687	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ec8a2995e686ff37
+12248	12379	7646413153341687	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ec8a2995e686ff37
+6	225	7647229950881209	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	14b296848948651c
+6	225	7647229950881209	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	14b296848948651c
+225	304	7647229953771231	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d91fd725171ffcb3
+225	304	7647229953771231	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	d91fd725171ffcb3
+304	377	7647229954511222	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e06ebeecb595f73
+304	377	7647229954511222	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e06ebeecb595f73
+377	457	7647229955301235	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b104360b2ac23a34
+377	457	7647229955301235	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	b104360b2ac23a34
+457	545	7647229956191212	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6792a0c9125e8125
+457	545	7647229956191212	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6792a0c9125e8125
+545	635	7647229957091204	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2c9f06adfa1bdddd
+545	635	7647229957091204	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	2c9f06adfa1bdddd
+635	749	7647229958221223	CMakeFiles/sfml-populate-complete	ec8a2995e686ff37
+635	749	7647229958221223	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ec8a2995e686ff37
+635	749	7647229958221223	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	ec8a2995e686ff37
+635	749	7647229958221223	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	ec8a2995e686ff37

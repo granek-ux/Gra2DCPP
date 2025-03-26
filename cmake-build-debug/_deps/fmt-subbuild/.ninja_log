@@ -1,0 +1,37 @@
+# ninja log v6
+3	79	7646412976440894	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7b301a28ba9faee2
+80	4387	7646413019510873	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	a3a8b0a83d7d9d2
+3	79	7646412976440894	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7b301a28ba9faee2
+80	4387	7646413019510873	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	a3a8b0a83d7d9d2
+4879	4952	7646413025171119	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f320df87f2a1fe0
+4387	4581	7646413019580862	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3aaef1e5e0907a35
+4581	4656	7646413022210893	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2160cf78526ab88c
+4387	4581	7646413019580862	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3aaef1e5e0907a35
+4581	4656	7646413022210893	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2160cf78526ab88c
+4657	4734	7646413022970882	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a6633e8185e83d91
+4657	4734	7646413022970882	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a6633e8185e83d91
+4734	4808	7646413023731106	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	64d5dbe693c83643
+4734	4808	7646413023731106	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	64d5dbe693c83643
+4808	4879	7646413024440895	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8c28228aae854c5
+4808	4879	7646413024440895	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8c28228aae854c5
+4879	4952	7646413025171119	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f320df87f2a1fe0
+4952	5062	7646413026250902	CMakeFiles/fmt-populate-complete	1048f4dd9e53d248
+4952	5062	7646413026250902	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1048f4dd9e53d248
+4952	5062	7646413026250902	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	1048f4dd9e53d248
+4952	5062	7646413026250902	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1048f4dd9e53d248
+6	360	7647229934081210	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3aaef1e5e0907a35
+6	360	7647229934081210	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	3aaef1e5e0907a35
+360	463	7647229938551210	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2160cf78526ab88c
+360	463	7647229938551210	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2160cf78526ab88c
+463	562	7647229939541223	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a6633e8185e83d91
+463	562	7647229939541223	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	a6633e8185e83d91
+563	658	7647229940511220	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	64d5dbe693c83643
+563	658	7647229940511220	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	64d5dbe693c83643
+659	743	7647229941361208	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8c28228aae854c5
+659	743	7647229941361208	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c8c28228aae854c5
+743	842	7647229942361201	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f320df87f2a1fe0
+743	842	7647229942361201	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f320df87f2a1fe0
+843	951	7647229943461229	CMakeFiles/fmt-populate-complete	1048f4dd9e53d248
+843	951	7647229943461229	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1048f4dd9e53d248
+843	951	7647229943461229	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	1048f4dd9e53d248
+843	951	7647229943461229	C:/Users/jbali/OneDrive/Pulpit/PCC GIT/git/Gra2DCPP/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	1048f4dd9e53d248
